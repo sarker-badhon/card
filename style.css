@@ -1,0 +1,21 @@
+.cont-bg{
+    background-color: gray;
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 50%;
+    margin: 1em auto 2em;
+    color: white;
+    box-shadow: 4px 5px 2px black;
+    text-align: center;
+}
+.header{
+    background-image: url(img/software-development-different-devices-application-600w-2077112560.webp);
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hdr-txt{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(201, 196, 196);
+}
